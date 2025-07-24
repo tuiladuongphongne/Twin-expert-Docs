@@ -1,0 +1,5 @@
+# 3. NỀN TẢNG (THE BASICS)
+
+Chào mừng bạn đến với trái tim của Twin AI. Trong chương này, chúng tôi sẽ cùng bạn khám phá các khái niệm và kỹ năng cốt lõi để biến Twin AI thành một trợ thủ đắc lực trong công việc hàng ngày. Hãy bắt đầu từ việc làm quen với không gian làm việc, sau đó học cách "đối thoại" hiệu quả với AI và cuối cùng là tổ chức công việc một cách khoa học.
+
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a href="3.1.-khong-gian-lam-viec-cua-ban.md"><strong>Không gian làm việc của bạn</strong></a></td><td>Tìm hiểu và làm quen với các thành phần chính trên giao diện Twin AI</td></tr><tr><td><a href="3.2.-nghe-thuat-doi-thoai-cung-twin-ai.md"><strong>Nghệ thuật Đối thoại cùng Twin AI</strong></a></td><td>Nắm vững nguyên tắc viết prompt hiệu quả để khai thác 100% sức mạnh của AI</td></tr><tr><td><a href="3.3.-quan-ly-cong-viec-voi-projects.md">Quản lý công việc với "Projects"</a></td><td>Học cách tổ chức công việc một cách khoa học và gọn gàng theo từng dự án.</td></tr></tbody></table>
